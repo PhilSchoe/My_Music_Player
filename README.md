@@ -1,2 +1,2 @@
 # My_Music_Player
-Android Music Player App wrriten in Kotlin
+Android Music Player App writen in Kotlin
